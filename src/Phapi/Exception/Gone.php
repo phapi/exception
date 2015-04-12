@@ -12,7 +12,7 @@ use Phapi\Exception;
  * This resource is gone. Used to indicate that an API endpoint has been turned off.
  * For example: "The REST API v1 will soon stop functioning. Please migrate to API v1.1."
  *
- * @category Exception
+ * @category Phapi
  * @package  Phapi\Exception
  * @author   Peter Ahinko <peter@ahinko.se>
  * @license  MIT (http://opensource.org/licenses/MIT)

@@ -9,9 +9,10 @@ use Phapi\Exception;
  *
  * Response code 400
  *
- * The request was invalid or cannot be otherwise served. An accompanying error message will explain further.
+ * The request was invalid or cannot be otherwise served. An accompanying
+ * error message will explain further.
  *
- * @category Exception
+ * @category Phapi
  * @package  Phapi\Exception
  * @author   Peter Ahinko <peter@ahinko.se>
  * @license  MIT (http://opensource.org/licenses/MIT)

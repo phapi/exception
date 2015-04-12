@@ -11,7 +11,7 @@ use Phapi\Exception;
  *
  * Payment is required before the requested method/resource can be requested.
  *
- * @category Exception
+ * @category Phapi
  * @package  Phapi\Exception
  * @author   Peter Ahinko <peter@ahinko.se>
  * @license  MIT (http://opensource.org/licenses/MIT)

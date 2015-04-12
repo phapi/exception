@@ -12,7 +12,7 @@ use Phapi\Exception;
  * The submitted data is causing a conflict with the current
  * state of the resource. An accompanying error message will explain why.
  *
- * @category Exception
+ * @category Phapi
  * @package  Phapi\Exception
  * @author   Peter Ahinko <peter@ahinko.se>
  * @license  MIT (http://opensource.org/licenses/MIT)

@@ -12,7 +12,7 @@ use Phapi\Exception;
  * The URI requested is invalid or the resource requested, such as a user, does not exists.
  * Also returned when the requested format is not supported by the requested method.
  *
- * @category Exception
+ * @category Phapi
  * @package  Phapi\Exception
  * @author   Peter Ahinko <peter@ahinko.se>
  * @license  MIT (http://opensource.org/licenses/MIT)

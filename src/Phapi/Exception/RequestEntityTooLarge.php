@@ -11,7 +11,7 @@ use Phapi\Exception;
  *
  * The requested entity is too large.
  *
- * @category Exception
+ * @category Phapi
  * @package  Phapi\Exception
  * @author   Peter Ahinko <peter@ahinko.se>
  * @license  MIT (http://opensource.org/licenses/MIT)

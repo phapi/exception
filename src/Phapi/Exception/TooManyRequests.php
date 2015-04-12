@@ -12,7 +12,7 @@ use Phapi\Exception;
  * Returned when a request cannot be served due to the application's
  * rate limit having been exhausted for the resource.
  *
- * @category Exception
+ * @category Phapi
  * @package  Phapi\Exception
  * @author   Peter Ahinko <peter@ahinko.se>
  * @license  MIT (http://opensource.org/licenses/MIT)

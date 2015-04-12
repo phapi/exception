@@ -11,7 +11,7 @@ use Phapi\Exception;
  *
  * The requested resource is currently locked
  *
- * @category Exception
+ * @category Phapi
  * @package  Phapi\Exception
  * @author   Peter Ahinko <peter@ahinko.se>
  * @license  MIT (http://opensource.org/licenses/MIT)

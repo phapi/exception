@@ -11,7 +11,7 @@ use Phapi\Exception;
  *
  * The API is down or being upgraded
  *
- * @category Exception
+ * @category Phapi
  * @package  Phapi\Exception
  * @author   Peter Ahinko <peter@ahinko.se>
  * @license  MIT (http://opensource.org/licenses/MIT)

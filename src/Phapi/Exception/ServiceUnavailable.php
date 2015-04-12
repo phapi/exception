@@ -11,7 +11,7 @@ use Phapi\Exception;
  *
  * The API is up, but overloaded with requests. Try again later.
  *
- * @category Exception
+ * @category Phapi
  * @package  Phapi\Exception
  * @author   Peter Ahinko <peter@ahinko.se>
  * @license  MIT (http://opensource.org/licenses/MIT)

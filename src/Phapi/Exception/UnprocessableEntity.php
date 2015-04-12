@@ -11,7 +11,7 @@ use Phapi\Exception;
  *
  * Returned when an uploaded file is unable to be processed.
  *
- * @category Exception
+ * @category Phapi
  * @package  Phapi\Exception
  * @author   Peter Ahinko <peter@ahinko.se>
  * @license  MIT (http://opensource.org/licenses/MIT)
