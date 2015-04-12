@@ -1,0 +1,33 @@
+{
+  "name": "phapi/exception",
+  "description": "Phapi Exceptions",
+  "keywords": [
+    "exceptions", "exception", "phapi"
+  ],
+  "version": "1.0.0",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "homepage": "http://phapi.github.io",
+  "authors": [
+    {
+      "name": "Peter Ahinko",
+      "email": "peter@ahinko.se",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "phapi/contract": "dev-master"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.6.*",
+    "codeclimate/php-test-reporter": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Phapi\\": "src/Phapi/",
+      "Phapi\\Exception\\": "src/Phapi/Exception/",
+      "Phapi\\Tests\\Exception\\": "tests/Phapi/Exception/"
+    }
+  }
+}
