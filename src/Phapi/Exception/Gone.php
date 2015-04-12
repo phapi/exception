@@ -40,6 +40,5 @@ class Gone extends Exception {
      * @var string
      */
     protected $description =
-        'This resource is gone. Used to indicate that an API resource has been turned off. '.
-        'For example: "The REST API v1 will soon stop functioning. Please migrate to API v1.1."';
+        'This resource is gone. Used to indicate that an API resource has been turned off. For example: "The REST API v1 will soon stop functioning. Please migrate to API v1.1."';
 }

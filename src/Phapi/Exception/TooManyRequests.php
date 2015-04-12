@@ -40,6 +40,5 @@ class TooManyRequests extends Exception {
      * @var string
      */
     protected $description =
-        'Returned when a request cannot be served due to the application\'s '.
-        'rate limit having been exhausted for the resource.';
+        'Returned when a request cannot be served due to the application\'s rate limit having been exhausted for the resource.';
 }

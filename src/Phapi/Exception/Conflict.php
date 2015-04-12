@@ -40,6 +40,5 @@ class Conflict extends Exception {
      * @var string
      */
     protected $description =
-        'The submitted data is causing a conflict with the current state of the resource. '.
-        'An accompanying error message will explain why.';
+        'The submitted data is causing a conflict with the current state of the resource. An accompanying error message will explain why.';
 }
