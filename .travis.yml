@@ -20,4 +20,4 @@ after_script:
 notifications:
   email: false
   slack:
-    secure: "bNwTztUCIF4HgKnaIPuqe8qGEUgx+7AEG55AyW1yKgd7vpYHMqzTh7kEFOx6Cjf9AapYGoO7i/WzOnG4M0CusRwPV7YJvLr+yqqXqNh2ksSHWIzR8+Q13tCpxYiTz2q9EFUls5ISAuy/+MhSSSiAFgA0Xud71Vd4x0opgn8wkuM="
+    secure: knwvI0CD1U4NKS1I3WN+NKmRAQi4myXlXjvRgPLpSNYUuAr9kTlltfD4MwGWY3AEk5lTW3A3NTuR/FvCH+rfab5EgrS27OXO3ikxifx9zr5bMHGZ0f2ZBM6q43xe+WsvpmKPgKyvKW7rFwbOZFTlr9xi+0k1LP1oWc22ldZcAGk=
