@@ -26,7 +26,11 @@
   "autoload": {
     "psr-4": {
       "Phapi\\": "src/Phapi/",
-      "Phapi\\Exception\\": "src/Phapi/Exception/",
+      "Phapi\\Exception\\": "src/Phapi/Exception/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
       "Phapi\\Tests\\Exception\\": "tests/Phapi/Exception/"
     }
   }
