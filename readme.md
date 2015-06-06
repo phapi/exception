@@ -1,7 +1,14 @@
 # Phapi Exception
 Package contains a set of exceptions matching HTTP error responses. Phapi will take care of logging the error and sending a proper error response when throwing these exceptions.
 
-**Included exceptions:**
+## Installation
+The package is installed by default by the Phapi framework. Installing the package to use is separately can be done by using composer:
+
+```shell
+$ composer require phapi/exception:1.*
+```
+
+## Included exceptions
 * BadGateway
 * BadRequest
 * Conflict
