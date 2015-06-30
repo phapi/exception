@@ -57,6 +57,9 @@ class Exception extends \Exception {
         $this->link         = (is_null($link))          ? $this->link       : $link;
         $this->description  = (is_null($description))   ? $this->description: $description;
 
+        $message            = (is_null($message))       ? $this->message    : $message;
+        $code               = (is_null($code))          ? $this->code       : $code;
+
         // make sure everything is assigned properly
         parent::__construct($message, $code, $previous);
     }
