@@ -18,7 +18,8 @@ use Phapi\Exception;
  * @license  MIT (http://opensource.org/licenses/MIT)
  * @link     https://github.com/phapi/exception
  */
-class BadRequest extends Exception {
+class BadRequest extends Exception
+{
 
     /**
      * Response status code

@@ -1,9 +1,5 @@
 <?php
-/**
- * This file is part of Phapi.
- *
- * See license.md for information about the license.
- */
+
 
 namespace Phapi;
 
@@ -16,7 +12,8 @@ namespace Phapi;
  * @license  MIT (http://opensource.org/licenses/MIT)
  * @link     https://github.com/phapi/exception
  */
-class Exception extends \Exception {
+class Exception extends \Exception
+{
 
     /**
      * Response status code

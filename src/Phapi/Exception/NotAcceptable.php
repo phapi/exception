@@ -17,7 +17,8 @@ use Phapi\Exception;
  * @license  MIT (http://opensource.org/licenses/MIT)
  * @link     https://github.com/phapi/exception
  */
-class NotAcceptable extends Exception {
+class NotAcceptable extends Exception
+{
 
     /**
      * Response status code

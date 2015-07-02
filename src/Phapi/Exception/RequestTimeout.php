@@ -17,7 +17,8 @@ use Phapi\Exception;
  * @license  MIT (http://opensource.org/licenses/MIT)
  * @link     https://github.com/phapi/exception
  */
-class RequestTimeout extends Exception {
+class RequestTimeout extends Exception
+{
 
     /**
      * Response status code
