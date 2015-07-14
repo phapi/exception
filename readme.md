@@ -1,4 +1,9 @@
 # Phapi Exception
+
+[![Build status](https://img.shields.io/travis/phapi/exception.svg?style=flat-square)](https://travis-ci.org/phapi/exception)
+[![Code Climate](https://img.shields.io/codeclimate/github/phapi/exception.svg?style=flat-square)](https://codeclimate.com/github/phapi/exception)
+[![Test Coverage](https://img.shields.io/codeclimate/coverage/github/phapi/exception.svg?style=flat-square)](https://codeclimate.com/github/phapi/exception/coverage)
+
 Package contains a set of exceptions matching HTTP error responses. Phapi will take care of logging the error and sending a proper error response when throwing these exceptions.
 
 ## Installation
