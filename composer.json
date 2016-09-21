@@ -4,7 +4,7 @@
   "keywords": [
     "exceptions", "exception", "phapi"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minimum-stability": "stable",
   "license": "MIT",
   "homepage": "http://phapi.github.io",
