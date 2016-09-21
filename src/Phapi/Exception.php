@@ -46,7 +46,7 @@ class Exception extends \Exception
     public function __construct(
         $message = null,
         $code = null,
-        \Exception $previous = null,
+        $previous = null,
         $link = null,
         $description = null
     ) {
